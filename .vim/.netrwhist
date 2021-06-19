@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/quhengyi11/a'
+let g:netrw_dirhist_4='/Users/quhengyi11/csapp'
+let g:netrw_dirhist_3='/Users/quhengyi11/cf/contest/1526/c2'
+let g:netrw_dirhist_2='/Users/quhengyi11/hw'
+let g:netrw_dirhist_1='/Users/quhengyi11/.vim'
